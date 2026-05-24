@@ -6,7 +6,7 @@ Full-stack salon appointment platform built with **React + Vite**, **Node.js + E
 
 | | URL |
 |---|---|
-| 🌐 Frontend | https://YOUR_GITHUB_USERNAME.github.io/salon-app/ |
+| 🌐 Frontend | https://aishu-245.github.io/salon-app/ |
 | ⚙️ Backend API | https://salon-app-backend.onrender.com |
 
 ## Demo Credentials
@@ -106,6 +106,6 @@ To reset: delete `server/data.db` and restart the server.
 
 ## Submission Links
 
-- **GitHub Repository:** https://github.com/YOUR_USERNAME/salon-app
-- **Live App:** https://YOUR_USERNAME.github.io/salon-app/
+- **GitHub Repository:** https://github.com/Aishu-245/salon-app
+- **Live App:** https://aishu-245.github.io/salon-app/
 - **Video Recording:** (add link)
